@@ -6,6 +6,12 @@ Here are some ideas to get you started:
 - 🎓 I’m currently studying in Bengkulu University majoring in Electrical Engineering also as a Mobile Develompment Path Student in Bangkit Academy 2022
 - ⚡ Fun fact: I Love Cat ❤️
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Android Studio | Kotlin
+- 🌐 &nbsp; Mobile Development
+- 🖥 &nbsp; Figma | Canva
+
 <h3> 📊 GitHub Stats </h3>
  
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
