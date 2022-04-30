@@ -51,9 +51,6 @@ Here are some ideas to get you started:
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/arduino/arduino-ar21.svg" alt="premiere" width="40" height="40"/> 
-    </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vsc1" width="40" height="40"/>
     </a> 
