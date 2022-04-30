@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 </details>
 <p>
-    <img src="https://github.com/rozinnaufal?tab=repositories" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozinnaufalfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=rozinnaufal&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozinnaufal&layout=compact" height=180 />
 </p>
