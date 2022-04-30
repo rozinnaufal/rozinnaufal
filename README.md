@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 🎓 I’m currently studying in Bengkulu University majoring in Electrical Engineering also as a Mobile Develompment Path Student in Bangkit Academy 2022
 - ⚡ Fun fact: I Love Cat ❤️
 
-Stats:
-What i am learning/working on these days
- 
+</details>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+</p>
