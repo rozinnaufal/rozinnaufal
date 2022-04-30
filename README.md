@@ -6,4 +6,6 @@ Here are some ideas to get you started:
 - 🎓 I’m currently studying in Bengkulu University majoring in Electrical Engineering also as a Mobile Develompment Path Student in Bangkit Academy 2022
 - ⚡ Fun fact: I Love Cat ❤️
 
-Mei's github stats GitHub Streak
+Stats:
+What i am learning/working on these days
+ 
