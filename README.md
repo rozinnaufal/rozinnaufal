@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mobile Develompment in Bangkit Academy
-- 🎓 I’m currently studying in Bengkulu University majoring in Electrical Engineering also as a Mobile Develompment Path Student in Bangkit Academy 2022
+- 🎓 I’m currently studying in Bengkulu University majoring in Electrical Engineering 
 - ⚡ Fun fact: I Love Cat ❤️
 
 <h3>🛠 Tech Stack</h3>
