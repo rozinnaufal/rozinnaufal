@@ -20,33 +20,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rozinnaufal&theme=dracula)](https://git.io/streak-stats)  
 
 <hr>
-<p align="center">
-    <a href="https://github.com/rozinnaufal/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=rozinnaufal&label=Profile%20views&color=000000&style=flat-square" alt="rozinnaufal"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/years/rozinnaufal?style=flat-square&color=000000" alt="Years Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/repos/rozinnaufal?style=flat-square&color=000000" alt="Repos Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/gists/lordronz?style=flat-square&color=000000" alt="Gists Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/commits/monthly/rozinnaufal?style=flat-square&color=000000" alt="Commits Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://img.shields.io/github/followers/rozinnaufal?style=social" alt="GitHub followers"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://img.shields.io/github/stars/rozinnaufal?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
-    </a>
-    <a href="https://github.com/rozinnaufal/" target="_blank">
-        <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="rozinnaufal"/>
-    </a>
-    
- <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
