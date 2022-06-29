@@ -2,16 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile Develompment in Bangkit Academy
-- 🎓 I’m currently studying in Bengkulu University majoring in Electrical Engineering 
-- ⚡ Fun fact: I Love Cat ❤️
+- 🔭 I’m currently working on Mobile Development in Bangkit Academy
+- ⚡ I’m currently studying in Bengkulu University majoring in Electrical Engineering 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Android Studio | Kotlin
-- 🌐 &nbsp; Mobile Development
 - 🖥 &nbsp; Figma | Canva
-
 
 
 <h3> 📊 GitHub Stats </h3>
