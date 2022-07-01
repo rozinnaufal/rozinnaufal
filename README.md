@@ -24,8 +24,11 @@ Here are some ideas to get you started:
     <a href = "https:https://www.tensorflow.org/" target = "blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-     <a href = "https:[https://https://kotlinlang.org/" target = "blank" rel="noreferrer"> 
+     <a href = "https:https://https://kotlinlang.org/" target = "blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> 
+         <a href = "https:https://www.python.org/" target = "blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
 </p>
 <p align = "down">
