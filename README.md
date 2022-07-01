@@ -21,8 +21,9 @@ Here are some ideas to get you started:
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vsc1" width="40" height="40"/>
-    </a> 
-   
+
+<a href="https://github.com/rozinnaufal">
+username=rozinnaufal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanfinix&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
