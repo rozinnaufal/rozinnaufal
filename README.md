@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     </a> 
     </a> 
          <a href = "https://developer.android.com/studio" target = "blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/androidstudio/androidstudio-icon.svg" alt="figma" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
 </p>
 <p align = "down">
