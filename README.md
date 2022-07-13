@@ -1,9 +1,3 @@
-### Hi there 👋
-
-- 📱 ANROID PROGRAMMING
-- 🖥 DESAIN UI/UX WITH FIGMA
-- 🚀MACHINE LEARNING
-
 <h3> 📊 GitHub Stats </h3>
  
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
