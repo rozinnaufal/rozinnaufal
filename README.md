@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Mobile Development in Bangkit Academy
-- ⚡ I’m currently studying in Bengkulu University majoring in Electrical Engineering 
-
-<h3>✨ Interested about </h3>
-
 - 📱 ANROID PROGRAMMING
 - 🖥 DESAIN UI/UX WITH FIGMA
 - 🚀MACHINE LEARNING
-
 
 <h3> 📊 GitHub Stats </h3>
  
