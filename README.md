@@ -1,7 +1,6 @@
 <h3> 📊 GitHub Stats </h3>
  
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rozinnaufal&theme=dracula)](https://git.io/streak-stats)  
 
 <hr>
 <p align="left"> 
