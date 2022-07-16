@@ -1,5 +1,5 @@
 <h3> 📊 GitHub Stats </h3>
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
+![Juli's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
 <hr>
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
