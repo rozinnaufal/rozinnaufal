@@ -1,7 +1,5 @@
 <h3> 📊 GitHub Stats </h3>
- 
-
-
+<hr>
 <p align="left"> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -23,6 +21,6 @@
 <a href="https://github.com/rozinnaufal">
 <username=rozinnaufal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rozinnaufal&layout=compact&langs_count=8&theme=algolia"/>
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) <hr>
 </a>
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
 </p>
