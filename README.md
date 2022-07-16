@@ -19,7 +19,7 @@
 
 <h3> </h3>
 <hr>
-![Juli's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
+![github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
 <p align = "left">
 <a href="https://github.com/rozinnaufal">
 <username=rozinnaufal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
