@@ -16,8 +16,9 @@
         <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
 </p>
-<hr>
+
 <h3> </h3>
+<hr>
 ![Juli's github stats](https://github-readme-stats.vercel.app/api?username=rozinnaufal&show_icons=true&theme=dracula) 
 <p align = "left">
 <a href="https://github.com/rozinnaufal">
